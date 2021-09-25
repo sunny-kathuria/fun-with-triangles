@@ -1,14 +1,9 @@
-
-
 .footer{
     background-color: var(--primary-color);
-    padding: 10rem ;
-    text-align: center;
-    position: relative ; 
-    bottom: 0;
+    padding: 2rem 1rem;
     color: white;
-    
-    border-top-right-radius:1.5rem ; 
+    text-align: center;
+    border-top-right-radius:1.5rem ;
 
 }
 
@@ -18,9 +13,14 @@
 .footer-header{
     font-size: large;
     font-weight: bold;
-    
 
 }
+
+.footer ul{
+    padding-inline-start: 0px;
+}
+
+
 
 
 
