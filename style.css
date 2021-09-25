@@ -1,0 +1,31 @@
+
+
+.footer{
+    background-color: var(--primary-color);
+    padding: 10rem ;
+    text-align: center;
+    position: relative ; 
+    bottom: 0;
+    color: white;
+    
+    border-top-right-radius:1.5rem ; 
+
+}
+
+.footer .link{
+    color:white;
+}
+.footer-header{
+    font-size: large;
+    font-weight: bold;
+    
+
+}
+
+
+
+.list-item-inline{
+    display: inline;
+    padding-right: 1rem;
+    padding-left: 1rem ;
+}
